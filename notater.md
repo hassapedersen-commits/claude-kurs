@@ -3,12 +3,12 @@
 ## Huskeliste for kurset
 
 - [ ] Fullføre introduksjonen til Claude Code
-- [ ] Forstå hva mapper, filer og stier er
+- [x] Forstå hva mapper, filer og stier er
 - [ ] Lære de grunnleggende terminalkommandoene (`cd`, `ls`, `pwd`, `mkdir`)
-- [ ] Lære Git-flyten: `git status` → `git diff` → `git add` → `git commit`
-- [ ] Prøve å gi Claude en oppgave og se over endringene etterpå
-- [ ] Lage min første pull request på GitHub
-- [ ] Skrive ned spørsmål jeg vil finne svar på underveis
+- [x] Lære Git-flyten: `git status` → `git diff` → `git add` → `git commit`
+- [x] Prøve å gi Claude en oppgave og se over endringene etterpå
+- [x] Lage min første pull request på GitHub
+- [x] Skrive ned spørsmål jeg vil finne svar på underveis
 
 ## Nyttige kommandoer
 
@@ -27,3 +27,7 @@
 ## Mine notater
 
 _Skriv egne notater her underveis i kurset._
+
+### Spørsmål
+
+- Hva er forskjellen på commit og push?

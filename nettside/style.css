@@ -1,0 +1,50 @@
+/* Dette er en CSS-fil. CSS bestemmer UTSEENDET på siden. */
+
+/* Hele siden: skrift, bakgrunnsfarge og tekstfarge */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f5f1ea;
+  color: #2b2b2b;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Toppen av siden */
+header {
+  background-color: #2563a8;
+  color: white;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Hovedinnholdet: midtstilt med maks bredde */
+main {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 0 16px;
+}
+
+/* De hvite boksene ("kortene") */
+.kort {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.kort h2 {
+  color: #2563a8;
+  margin-top: 0;
+}
+
+/* Bunnen av siden */
+footer {
+  text-align: center;
+  color: #777;
+  padding: 20px;
+}

@@ -42,6 +42,23 @@ main {
   margin-top: 0;
 }
 
+/* Fremdriftslinjen: den grå stolpen bak */
+.fremdrift {
+  background-color: #e5e1da;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+/* Den blå delen som viser hvor langt jeg har kommet */
+.fremdrift-fyll {
+  background-color: #2563a8;
+  color: white;
+  text-align: right;
+  padding: 6px 12px;
+  font-weight: bold;
+  box-sizing: border-box;
+}
+
 /* Bunnen av siden */
 footer {
   text-align: center;

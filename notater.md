@@ -4,7 +4,7 @@
 
 - [ ] Fullføre introduksjonen til Claude Code
 - [x] Forstå hva mapper, filer og stier er
-- [ ] Lære de grunnleggende terminalkommandoene (`cd`, `ls`, `pwd`, `mkdir`)
+- [x] Lære de grunnleggende terminalkommandoene (`cd`, `ls`, `pwd`, `mkdir`)
 - [x] Lære Git-flyten: `git status` → `git diff` → `git add` → `git commit`
 - [x] Prøve å gi Claude en oppgave og se over endringene etterpå
 - [x] Lage min første pull request på GitHub
@@ -28,6 +28,16 @@
 
 _Skriv egne notater her underveis i kurset._
 
+### Terminalkommandoer
+
+- Det må være **mellomrom** mellom kommandoen og det den skal jobbe med: `cd ..`, ikke `cd..`.
+- `cd` skriver ingenting når den virker. Bruk `pwd` etterpå for å se hvor jeg er.
+- `pwd` står offisielt for *print working directory* (mange sier *present*).
+- `cat filnavn` viser innholdet i en fil.
+
 ### Spørsmål
 
 - Hva er forskjellen på commit og push?
+  - **Commit** = ta et øyeblikksbilde av endringene og lagre det lokalt.
+  - **Push** = sende øyeblikksbildene opp til GitHub.
+  - Som å skrive et brev (commit) og legge det i postkassen (push).
